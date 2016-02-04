@@ -1,0 +1,11 @@
+#objects
+*.o
+
+#Executables
+rnnlm
+
+#eigen3
+eigen3
+
+#ide files
+nbproject
