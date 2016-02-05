@@ -42,5 +42,4 @@ else
     rm -f eigen.$fname
 fi
 
-cd faster-rnnlm
-make -j
+make -j4

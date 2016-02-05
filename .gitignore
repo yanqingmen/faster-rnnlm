@@ -9,3 +9,6 @@ eigen3
 
 #ide files
 nbproject
+
+#data files
+benchmarks
